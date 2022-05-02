@@ -1,11 +1,11 @@
 import React from "react";
-import Layout from "../../components/Layout";
+import Layout from "@components/Layout";
 
 const Landing: React.FC = () => {
   return (
-    <Layout> 
-      Landing
-    </Layout>
+    <Layout>
+      123
+    </Layout> 
   );
 }
 
